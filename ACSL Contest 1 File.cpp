@@ -9,7 +9,6 @@ if (myfile.is_open()){
     myfile<<"54981230845791 5"<<endl;
     myfile<<"4837261529387456 3"<<endl;
     myfile<<"385018427388713440 4"<<endl;
-    myfile<<"623387770165388734652209 11"<<endl;
 */
 
     myfile<<"13256709 3"<<endl;
